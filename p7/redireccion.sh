@@ -1,0 +1,1 @@
+ls /tmp 2>&1 > /dev/null | wc -l #las redirecciones se leen de derecha a izquierda, redireccion la salida estandar a /dev/null y la de error a salida estandar

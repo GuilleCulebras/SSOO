@@ -1,0 +1,6 @@
+#Nombres	Ejer1	Ejer2	Ejer3	Ejer4	Final
+Gorka 		-	-	-	3	NP
+Javi 		6	8	5	8	6.75
+Luis 		9	7	6	7	7.25
+Miguel 		2	-	5	5	NP
+Pepe 		4	3	-	9	NP

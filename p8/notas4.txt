@@ -1,0 +1,11 @@
+#Nombre	Ejercicio4
+
+Luis	7
+
+Miguel	5
+
+Javi	8
+
+Pepe	9
+
+Gorka	3

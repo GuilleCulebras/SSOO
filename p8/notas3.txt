@@ -1,0 +1,7 @@
+#Nombre	Ejercicio3
+
+Luis	6
+
+Miguel	5
+
+Javi	5
